@@ -9,10 +9,9 @@ import tempfile
 
 
 __author__ = "Dejan Levaja"
-__copyright__ = "Copyright 2018. Dejan Levaja"
 __license__ = "GPL"
 __version__ = "2.0.0"
-__email__ = "dejan.levaja@ras-it.r"
+__email__ = "dejan.levaja@ras-it.rs"
 
 
 header = []
